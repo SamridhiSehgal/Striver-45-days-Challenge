@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0344-reverse-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
