@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0344-reverse-string) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
