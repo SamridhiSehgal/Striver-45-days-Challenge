@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -29,16 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0344-reverse-string) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0088-merge-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
 |  |
 | ------- |
