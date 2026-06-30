@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
