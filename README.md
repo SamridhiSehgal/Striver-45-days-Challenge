@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -96,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
