@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
