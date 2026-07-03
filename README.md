@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0216-combination-sum-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0344-reverse-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -99,6 +102,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0216-combination-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
