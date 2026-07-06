@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0053-maximum-subarray) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0037-sudoku-solver) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
