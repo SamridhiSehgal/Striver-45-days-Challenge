@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0415-add-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0415-add-strings) |
 ## Backtracking
 |  |
 | ------- |
