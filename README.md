@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
