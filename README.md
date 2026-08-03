@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -137,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
