@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
@@ -151,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
