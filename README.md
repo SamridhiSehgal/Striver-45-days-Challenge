@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0198-house-robber) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0273-integer-to-english-words) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0068-text-justification) |
