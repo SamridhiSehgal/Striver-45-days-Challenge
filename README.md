@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2965-find-missing-and-repeated-values](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/2965-find-missing-and-repeated-values) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0273-integer-to-english-words) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0494-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
