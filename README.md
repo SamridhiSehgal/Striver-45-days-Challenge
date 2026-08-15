@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0273-integer-to-english-words) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
