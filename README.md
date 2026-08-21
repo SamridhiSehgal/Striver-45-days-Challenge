@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SamridhiSehgal/Striver-45-days-Challenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
